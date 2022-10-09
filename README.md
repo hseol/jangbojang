@@ -11,12 +11,12 @@
 
 ### 목차
 
-1. [**웹 서비스 소개**](#1)
-2 [**기술 스택**](#2)
-3 [**주요 기능**](#3
-4 [**프로젝트 구성도**](#4)
-5 [**데모 영상**](#5)
-6 [**개발 팀 소개**](#6)
+1. [**웹 서비스 소개**](#1)    
+2 [**기술 스택**](#2)     
+3 [**주요 기능**](#3)      
+4 [**프로젝트 구성도**](#4)     
+5 [**데모 영상**](#5)     
+6 [**개발 팀 소개**](#6)       
 1. [**개발 기간 및 일정**](#8)
 1. [**실행 방법**](#9)
 <hr />
@@ -40,14 +40,9 @@
     <td align="center" width="165"><strong>Front-end 기술 스택</strong></td>
     <td>
       <div>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=  &logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Recoil-212121?style=  &logo=Recoil&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=  &logo=ReactQuery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Emotion-C865B9?style=  &logo=Emotion&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Web3js-F16822?style=&logo=Web3dotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Mui-007FFF?style=&logo=Mui&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-3178C6?&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Axios-5A29E4?style=&logo=Axios&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-5A29E4?style=&logo=WebRTC&logoColor=white"/>
       </div>
     </td>
   </tr>
@@ -61,15 +56,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="165"><strong>Solidity 기술 스택</strong></td>
-    <td>
-        <img src="https://img.shields.io/badge/Solidity-363636?style=  &logo=Solidity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=  &logo=Ethereum&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IPFS-65C2CB?style=  &logo=IPFS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/BESU-65C2CB?style=  &logo=BESU&logoColor=white"/>
-    </div>
-  </tr>
-  <tr>
     <td align="center" width="165"><strong>Server 기술 스택</strong></td>
     <td>
         <img src="https://img.shields.io/badge/NGINX-009639?style=  &logo=nginx&logoColor=white"/>
@@ -81,16 +67,12 @@
   </tr>
   <tr>
     <td align="center"><strong>배포</strong></td>
-    <td>
-      <a href="https://j7a607.q.ssafy.io/" target="_blank">
-        🧩 여행 조각 
-      </a>
-    </td>
+ <strong>현재는 중단</strong>
   </tr>
   <tr>
     <td align="center"><strong>노션</strong></td>
     <td>
-      <a href="https://www.notion.so/nyeol/A607-567eab8c5263429e9334f8de5550f6b6">
+      <a href="#">
         👉 노션 바로가기
       </a>
     </td>
