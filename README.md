@@ -93,74 +93,65 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/82889580/194465980-a1127570-06b8-4042-91e9-adc5733e0cd9.gif" width=250/>
+        <img src="" width=250/>
       </td>
       <td>
-        <b>NFT 스티커 발급</b>
-        <div>QR 인식을 통해 여행지의 NFT 스티커를 발급받을 수 있습니다.</div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/82889580/194466160-4a36a599-1a15-4630-baac-14bcb312eb02.gif" width=250/>
-      </td>
-      <td>
-        <b>여행 등록</b>
-        <div>여행지와 여행일정을 등록하면 여행 티켓이 생성됩니다.</div>
+        <b>시장 검색</b>
+        <div>지역, 이름으로 전국에 있는 전통시장 검색을 할 수 있습니다.</div>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/82889580/194466826-e0768287-9dce-4aba-b2c1-0763a7d4e1de.gif" width=250/>
+        <img src="" width=250/>
       </td>
       <td>
-        <b>다이어리 작성</b>
-        <div>여행지에서 하루의 다이어리를 작성하고 오늘의 사진을 등록할 수 있습니다.</div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/82889580/194466958-d6c59c1a-dabb-4b1e-8052-9000cb91429a.gif" width=250/>
-      </td>
-      <td>
-        <b>다이어리 꾸미기 및 프레임 공유</b>
-        <div>발급받은 NFT 스티커로 다이어리를 꾸미고 스티커 프레임을 공유할 수 있습니다.</div>
+        <b>주문하기</b>
+        <div>webRTC 방에 들어가 상점의 아이템을 주문합니다. </div>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/82889580/194467059-c898de01-70a8-472e-b91e-a7e0fd730b17.gif" width=250/>
+        <img src="" width=250/>
       </td>
       <td>
-        <b>스티커 발급 가능 지역 조회</b>
-        <div>GPS 기반의 내 주변 또는 원하는 지역의 스티커 발급 장소를 확인할 수 있습니다.</div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/82889580/194467193-df1892f4-57f4-4b29-b1fb-79d665689ef3.gif" width=250/>
-      </td>
-      <td>
-        <b>공유 프레임 조회</b>
-        <div>공유된 스티커 프레임을 지역 별로 조회하고 원하는 프레임을 저장할 수 있습니다.</div>
+        <b>호출하기</b>
+        <div>문의사항이 있을때 상인을 호출할 수 있습니다.</div>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/82889580/194467193-df1892f4-57f4-4b29-b1fb-79d665689ef3.gif" width=250/>
+        <img src="" width=250/>
       </td>
       <td>
-        <b>NFT 스티커 조회</b>
-        <div>공유된 프레임의 스티커를 클릭하면 NFT 마켓에서 해당 스티커를 조회합니다.</div>
+        <b>방만들기</b>
+        <div>판매자는 방을 만들어 장사를 시작할 수 있습니다. </div>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/82889580/194467952-d019d262-52a9-4ac6-bf37-2d7e64467133.gif" width=250/>
+        <img src="" width=250/>
       </td>
       <td>
-        <b>NFT 마켓</b>
-        <div>NFT 스티커를 마켓에서 거래할 수 있습니다.</div>
+        <b>상점관리</b>
+        <div>상점의 정보, 판매할 상품을 입력합니다.</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="" width=250/>
+      </td>
+      <td>
+        <b>주문서 조회</b>
+        <div>WebRtc 라이브 방에서 구매자들이 주문한 내역을 실시간으로 확인 가능합니다. </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="" width=250/>
+      </td>
+      <td>
+        <b>덤 주기</b>
+        <div>판매자는 구매자에게 주문서를 확인하고 덤추가를 할 수 있다.</div>
       </td>
     </tr>
   </tbody>
@@ -172,37 +163,15 @@
 
 |                                               <div align="center">아키텍쳐(Archtecture)</div>                                                |
 | :------------------------------------------------------------------------------------------------------------------------------------------: |
-|        <img src="https://user-images.githubusercontent.com/82889580/194323651-c3382c53-f449-472c-8597-4d8dc31f82f2.png" width="700"/>        |
+|        <img src="" width="700"/>        |
 |                                                           **개체-관계 모델 (ERD)**                                                           |
-| <img src="https://user-images.githubusercontent.com/82889580/194323639-91f83f03-b36b-49ee-8865-4a7c0c77b895.png" width="600" height="500" /> |
+| <img src="https://user-images.githubusercontent.com/26956570/203716058-c080d692-1141-499e-8955-03a4826a5fe0.png" width="600" height="500" /> |
 
 
 <br />
 <div id="5"></div>
 ## 🎥 데모 영상
 
-<table align="center">
-<thead>
-  <tr>
-    <td align="center"><strong>UCC 영상</strong></th>
-    <td align="center"><strong>시연 영상</strong></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td>
-      <a href="https://youtu.be/KNcOnopfsGk" target="_blank">
-        <img src="https://user-images.githubusercontent.com/82889580/194323588-0e855199-2221-4231-b67b-c68f97e27166.png" width=400 height=240/>
-      </a>
-    </td>
-    <td>
-      <a href="https://youtu.be/F9abdKcMTTo" target="_blank">
-        <img src="https://user-images.githubusercontent.com/82889580/194366060-ba8cde4b-0fed-4c29-b171-797ca7ca2441.png" width=400 height=240/>
-      </a>
-    </td>
-  </tr>
-  </tbody>
-<table>
 
 <br />
 <div id="6"></div>
